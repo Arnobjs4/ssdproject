@@ -1,0 +1,32 @@
+body
+    {
+
+}
+div{
+	color: #fff;
+	width: 1000px;
+	background: #202020;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	padding: 50px;
+}		
+h1{
+	margin: 0;
+	font-size: 50px;
+	color: seagreen;
+}
+p{
+	margin: 0;
+	font-size: 18px;
+	line-height: 1.6;
+}
+span{
+	color: orange;
+	text-transform: uppercase;
+
+}
+b{
+	font-size: 90px;
+}
